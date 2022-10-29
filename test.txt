@@ -1,3 +1,1 @@
-Hi This is first git file for practic
-Add one more line to check the PR b/w D and M
-Added line but not commited due to that this test.txt latest data reflecting in to all the colations.
+ Hi This is second text fuile`
